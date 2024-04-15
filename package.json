@@ -1,0 +1,24 @@
+{
+  "name": "socketchatbasico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Santos (ForgeHefesto)",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForgeHefesto/socketChatBasico.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ForgeHefesto/socketChatBasico/issues"
+  },
+  "homepage": "https://github.com/ForgeHefesto/socketChatBasico#readme"
+}
